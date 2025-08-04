@@ -1,0 +1,16 @@
+# virtual envs
+venv/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+
+# compiled python
+__pycache__/
+*.py[cod]
+
+# VS Code settings (optional)
+.vscode/
